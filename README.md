@@ -231,8 +231,25 @@
 
 ## Binary Search
 
-* [Problem](https://leetcode.com/problems/search-a-2d-matrix/)
-* [Solution](algorithms/binary-search/search-2d-matrix/solution.py)
+* Search a 2D Matrix
+
+- [Problem](https://leetcode.com/problems/search-a-2d-matrix/)
+- [Solution](algorithms/binary-search/search-2d-matrix/solution.py)
+
+* Koko Eating Bananas
+
+- [Problem](https://leetcode.com/problems/koko-eating-bananas/)
+- [Solution](algorithms/binary-search/koko-eating-bananas/solution.py)
+
+* Search in Rotated Array
+
+- [Problem](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+- [Solution](algorithms/binary-search/search-in-rotated-array/solution.py)
+
+* Find Minimum in Rotated Sorted Array
+
+- [Problem](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+- [Solution](algorithms/binary-search/find-minimum-in-rotated-sorted-array/solution.py)
 
 
 ## Dynamic Programming
