@@ -3,42 +3,42 @@
 * Find the Duplicate Number
 
 - [Problem](https://leetcode.com/problems/find-the-duplicate-number/submissions/)
-- [Solution](algorithms/bit-manipulation/find-the-duplicate-number/solution.js)
+- [Solution](bit-manipulation/find-the-duplicate-number/solution.js)
 
 * Divide Two Integers
 
 - [Problem](https://leetcode.com/problems/divide-two-integers/)
-- [Solution](algorithms/bit-manipulation/divide-two-integers/solution.js)
+- [Solution](bit-manipulation/divide-two-integers/solution.js)
 
 * Subsets
 
 - [Problem](https://leetcode.com/problems/subsets/)
-- [Solution](algorithms/bit-manipulation/subsets/solution.js)
+- [Solution](bit-manipulation/subsets/solution.js)
 
 * Single Number
 
 - [Problem](https://leetcode.com/problems/single-number/)
-- [Solution](algorithms/bit-manipulation/single-number/solution.js)
+- [Solution](bit-manipulation/single-number/solution.js)
 
 * Reverse Bits
 
 - [Problem](https://leetcode.com/problems/reverse-bits/)
-- [Solution](algorithms/bit-manipulation/reverse-bits/solution.js)
+- [Solution](bit-manipulation/reverse-bits/solution.js)
 
 * Number of 1 Bits
 
 - [Problem](https://leetcode.com/problems/number-of-1-bits/)
-- [Solution](algorithms/bit-manipulation/number-of-1-bits/solution.js)
+- [Solution](bit-manipulation/number-of-1-bits/solution.js)
 
 * Missing Number
 
 - [Problem](https://leetcode.com/problems/missing-number/)
-- [Solution](algorithms/bit-manipulation/missing-number/solution.js)
+- [Solution](bit-manipulation/missing-number/solution.js)
 
 * Sum of Two Integers
 
 - [Problem](https://leetcode.com/problems/sum-of-two-integers/)
-- [Solution](algorithms/bit-manipulation/sum-of-two-integers/solution.js)
+- [Solution](bit-manipulation/sum-of-two-integers/solution.js)
 
 
 ## Math
@@ -46,77 +46,77 @@
 * Climbing Stairs
 
 - [Problem](https://leetcode.com/problems/climbing-stairs/)
-- [Solution](algorithms/math/climbing-stairs/solution.js)
+- [Solution](math/climbing-stairs/solution.js)
 
 * Excel Sheet Column Number
 
 - [Problem](https://leetcode.com/problems/happy-number/)
-- [Solution](algorithms/math/excel-sheet-column-number/solution.js)
+- [Solution](math/excel-sheet-column-number/solution.js)
 
 * Happy Number
 
 - [Problem](https://leetcode.com/problems/happy-number/)
-- [Solution](algorithms/math/happy-number/solution.js)
+- [Solution](math/happy-number/solution.js)
 
 * Power of Three
 
 - [Problem](https://leetcode.com/problems/power-of-three/)
-- [Solution](algorithms/math/power-of-three/solution.js)
+- [Solution](math/power-of-three/solution.js)
 
 * Rotate Image
 
 - [Problem](https://leetcode.com/problems/rotate-image/solution/)
-- [Solution](algorithms/math/rotate-image/solution.js)
+- [Solution](math/rotate-image/solution.js)
 
 * Pow(x, n)
 
 - [Problem](https://leetcode.com/problems/powx-n/)
-- [Solution](algorithms/math/pow-x-n/solution.js)
+- [Solution](math/pow-x-n/solution.js)
 
 * Unique Paths
 
 - [Problem](https://leetcode.com/problems/unique-paths/)
-- [Solution](algorithms/math/unique-paths/solution.js)
+- [Solution](math/unique-paths/solution.js)
 
 * Reverse Polish Notation
 
 - [Problem](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
-- [Solution](algorithms/math/reverse-polish-notation/solution.js)
+- [Solution](math/reverse-polish-notation/solution.js)
 
 * Fraction to Recurring Decimal
 
 - [Problem](https://leetcode.com/problems/fraction-to-recurring-decimal/)
-- [Solution](algorithms/math/recurring-decimal/solution.js)
+- [Solution](math/recurring-decimal/solution.js)
 
 * Rotate Array
 
 - [Problem](https://leetcode.com/problems/rotate-array/)
-- [Solution](algorithms/math/rotate-array/solution.js)
+- [Solution](math/rotate-array/solution.js)
 
 * Count Primes
 
 - [Problem](https://leetcode.com/problems/count-primes/)
-- [Solution](algorithms/math/count-primes/solution.ts)
+- [Solution](math/count-primes/solution.ts)
 
 * Basic Calculator 2
 
 - [Problem](https://leetcode.com/problems/basic-calculator-ii/)
-- [Solution](algorithms/math/basic-calculator/solution.ts)
+- [Solution](math/basic-calculator/solution.ts)
 
 * Perfect Squares
 
 - [Problem](https://leetcode.com/problems/perfect-squares/)
-- [Solution](algorithms/math/perfect-squares/solution.ts)
+- [Solution](math/perfect-squares/solution.ts)
 
 * Insert Delete GetRandom O(1)
 
 - [Problem](https://leetcode.com/problems/insert-delete-getrandom-o1/)
-- [Solution](algorithms/math/insert-delete-getrandom/solution.ts)
+- [Solution](math/insert-delete-getrandom/solution.ts)
 
 * Shuffle an Array
 
 - [Problem](https://leetcode.com/problems/shuffle-an-array/)
-- [Solution](algorithms/math/shuffle-array/solution.ts)
+- [Solution](math/shuffle-array/solution.ts)
 
 
 ## Array
@@ -124,67 +124,67 @@
 * Remove Duplicates from Sorted Array
 
 - [Problem](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
-- [Solution](algorithms/array/remove-duplicates-from-sorted-array/solution.ts)
+- [Solution](array/remove-duplicates-from-sorted-array/solution.ts)
 
 * Merge Sorted Array
 
 - [Problem](https://leetcode.com/problems/merge-sorted-array/)
-- [Solution](algorithms/array/merge-sorted-array/solution.ts)
+- [Solution](array/merge-sorted-array/solution.ts)
 
 * Convert Sorted Array to Binary Search Tree
 
 - [Problem](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
-- [Solution](algorithms/array/sorted-array-to-binary-tree/solution.ts)
+- [Solution](array/sorted-array-to-binary-tree/solution.ts)
 
 * Pascal's Triangle
 
 - [Problem](https://leetcode.com/problems/pascals-triangle/)
-- [Solution](algorithms/array/pascal-triangle/solution.ts)
+- [Solution](array/pascal-triangle/solution.ts)
 
 * Best Time to Buy and Sell Stock
 
 - [Problem](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
-- [Solution](algorithms/array/sell-stock/solution.ts)
+- [Solution](array/sell-stock/solution.ts)
 
 * Group Anagrams
 
 - [Problem](https://leetcode.com/problems/group-anagrams/)
-- [Solution](algorithms/array/group-anagrams/solution.ts)
+- [Solution](array/group-anagrams/solution.ts)
 
 * Contains Duplicate
 
 - [Problem](https://leetcode.com/problems/contains-duplicate/)
-- [Solution](algorithms/array/contains-duplicate/solution.ts)
+- [Solution](array/contains-duplicate/solution.ts)
 
 * Valid Anagram
 
 - [Problem](https://leetcode.com/problems/valid-anagram/)
-- [Soltion](algorithms/array/valid-anagram/solution.ts)
+- [Soltion](array/valid-anagram/solution.ts)
 
 * Two Sum
 
 - [Problem](https://leetcode.com/problems/two-sum/)
-- [Solution](algorithms/array/two-sum/solution.ts)
+- [Solution](array/two-sum/solution.ts)
 
 * Top K Frequent Elements
 
 - [Problem](https://leetcode.com/problems/top-k-frequent-elements/)
-- [Solution](algorithms/array/top-k-frequent-elements/solution.ts)
+- [Solution](array/top-k-frequent-elements/solution.ts)
 
 * Product of Array Except Self
 
 - [Problem](https://leetcode.com/problems/product-of-array-except-self/)
-- [Solution](algorithms/array/product-of-array-except-self/solution.ts)
+- [Solution](array/product-of-array-except-self/solution.ts)
 
 * Valid Sudoku
 
 - [Problem](https://leetcode.com/problems/valid-sudoku/)
-- [Solution](algorithms/array/valid-sudoku/solution.ts)
+- [Solution](array/valid-sudoku/solution.ts)
 
 * Longest Consecutive Sequence
 
 - [Problem](https://leetcode.com/problems/longest-consecutive-sequence/)
-- [Solution](algorithms/array/longest-consecutive-sequence/solution.py)
+- [Solution](array/longest-consecutive-sequence/solution.py)
 
 
 ## Two Pointers
@@ -192,27 +192,27 @@
 * Valid Palindrome
 
 - [Problem](https://leetcode.com/problems/valid-palindrome/submissions/)
-- [Solution](algorithms/two-pointers/valid-palindrome/solution.py)
+- [Solution](two-pointers/valid-palindrome/solution.py)
 
 * Two Sum 
 
 - [Problem](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
-- [Solution](algorithms/two-pointers/two-sum-2/solution.py)
+- [Solution](two-pointers/two-sum-2/solution.py)
 
 * 3Sum
 
 - [Problem](https://leetcode.com/problems/3sum/)
-- [Solution](algorithms/two-pointers/3Sum/solution.py)
+- [Solution](two-pointers/3Sum/solution.py)
 
 * Container With Most Water
 
 - [Problem](https://leetcode.com/problems/container-with-most-water/submissions/)
-- [Solution](algorithms/two-pointers/container-with-most-water/solution.py)
+- [Solution](two-pointers/container-with-most-water/solution.py)
 
 * Trapping Rain Water
 
 - [Problem](https://leetcode.com/problems/trapping-rain-water/)
-- [Solution](algorithms/two-pointers/trapping-rain-water/solution.py)
+- [Solution](two-pointers/trapping-rain-water/solution.py)
 
 
 ## Sliding Window
@@ -220,27 +220,27 @@
 * Longest Substring Without Repeating Characters
 
 - [Problem](https://leetcode.com/problems/longest-substring-without-repeating-characters/submissions/)
-- [Solution](algorithms/sliding-window/longest-substring-without-repeating-chars/solution.py)
+- [Solution](sliding-window/longest-substring-without-repeating-chars/solution.py)
 
 * Longest Repeating Character Replacement
 
 - [Problem](https://leetcode.com/problems/longest-repeating-character-replacement/)
-- [Solution](algorithms/sliding-window/longest-repeating-character-replacement/solution.py)
+- [Solution](sliding-window/longest-repeating-character-replacement/solution.py)
 
 * Permutation in String
 
 - [Problem](https://leetcode.com/problems/permutation-in-string/)
-- [Solution](algorithms/sliding-window/permutation-in-string/solution.py)
+- [Solution](sliding-window/permutation-in-string/solution.py)
 
 * Minimum Window Substring
 
 - [Problem](https://leetcode.com/problems/minimum-window-substring/)
-- [Solution](algorithms/sliding-window/minimum-window-substring/solution.py)
+- [Solution](sliding-window/minimum-window-substring/solution.py)
 
 * Sliding Window Maximum
 
 - [Problem](https://leetcode.com/problems/sliding-window-maximum/)
-- [Solution](algorithms/sliding-window/sliding-window-maximum/solution.py)
+- [Solution](sliding-window/sliding-window-maximum/solution.py)
 
 
 ## Stack
@@ -248,27 +248,27 @@
 * Valid Parentheses
 
 - [Problem](https://leetcode.com/problems/valid-parentheses/)
-- [Solution](algorithms/stack/valid-parentheses/solution.py)
+- [Solution](stack/valid-parentheses/solution.py)
 
 * Min-Stack
 
 - [Problem](https://leetcode.com/problems/min-stack/)
-- [Solution](algorithms/stack/min-stack/solution.py)
+- [Solution](stack/min-stack/solution.py)
 
 * Daily Temperatures
 
 - [Problem](https://leetcode.com/problems/daily-temperatures/)
-- [Solution](algorithms/stack/daily-temperature/solution.py)
+- [Solution](stack/daily-temperature/solution.py)
 
 * Car Fleet
 
 - [Problem](https://leetcode.com/problems/car-fleet/submissions/)
-- [Solution](algorithms/stack/car-fleet/solution.py)
+- [Solution](stack/car-fleet/solution.py)
 
 * Largest Rectangle in Histogram
 
 - [Problem](https://leetcode.com/problems/largest-rectangle-in-histogram/)
-- [Solution](algorithms/stack/largest-rectangle-in-histogram/solution.py)
+- [Solution](stack/largest-rectangle-in-histogram/solution.py)
 
 
 ## Binary Search
@@ -276,22 +276,22 @@
 * Search a 2D Matrix
 
 - [Problem](https://leetcode.com/problems/search-a-2d-matrix/)
-- [Solution](algorithms/binary-search/search-2d-matrix/solution.py)
+- [Solution](binary-search/search-2d-matrix/solution.py)
 
 * Koko Eating Bananas
 
 - [Problem](https://leetcode.com/problems/koko-eating-bananas/)
-- [Solution](algorithms/binary-search/koko-eating-bananas/solution.py)
+- [Solution](binary-search/koko-eating-bananas/solution.py)
 
 * Search in Rotated Array
 
 - [Problem](https://leetcode.com/problems/search-in-rotated-sorted-array/)
-- [Solution](algorithms/binary-search/search-in-rotated-array/solution.py)
+- [Solution](binary-search/search-in-rotated-array/solution.py)
 
 * Find Minimum in Rotated Sorted Array
 
 - [Problem](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
-- [Solution](algorithms/binary-search/find-minimum-in-rotated-sorted-array/solution.py)
+- [Solution](binary-search/find-minimum-in-rotated-sorted-array/solution.py)
 
 
 ## Dynamic Programming
@@ -299,79 +299,79 @@
 * Pascal's Triangle II
 
 - [Problem](https://leetcode.com/problems/pascals-triangle-ii/)
-- [Solution](algorithms/dynamic-programming/pascals-triangle-2/solution.ts)
+- [Solution](dynamic-programming/pascals-triangle-2/solution.ts)
 
 * Is Subsequence
 
 - [Problem](https://leetcode.com/problems/is-subsequence/)
-- [Solution](algorithms/dynamic-programming/is-subsequence/solution.ts)
+- [Solution](dynamic-programming/is-subsequence/solution.ts)
 
 * Fibonacci Number
 
 - [Problem](https://leetcode.com/problems/fibonacci-number/)
-- [Solution](algorithms/dynamic-programming/fibonacci-number/solution.ts)
+- [Solution](dynamic-programming/fibonacci-number/solution.ts)
 
 * Min Cost Climbing Stairs
 
 - [Problem](https://leetcode.com/problems/min-cost-climbing-stairs/)
-- [Solution](algorithms/dynamic-programming/min-cost-climbing-stairs/solution.ts)
+- [Solution](dynamic-programming/min-cost-climbing-stairs/solution.ts)
 
 * Divisor Game
 
 - [Problem](https://leetcode.com/problems/divisor-game/)
-- [Solution](algorithms/dynamic-programming/divisor-game/solution.ts)
+- [Solution](dynamic-programming/divisor-game/solution.ts)
 
 * N-th Tribonacci Number
 
 - [Problem](https://leetcode.com/problems/n-th-tribonacci-number/)
-- [Solution](algorithms/dynamic-programming/nth-tribonacci-number/solution.ts)
+- [Solution](dynamic-programming/nth-tribonacci-number/solution.ts)
 
 * Get Maximum in Generated Array
 
 - [Problem](https://leetcode.com/problems/get-maximum-in-generated-array/)
-- [Solution](algorithms/dynamic-programming/get-max-in-generated-array/solution.ts)
+- [Solution](dynamic-programming/get-max-in-generated-array/solution.ts)
 
 * Generate Parentheses
 
 - [Problem](https://leetcode.com/problems/generate-parentheses/)
-- [Solution](algorithms/dynamic-programming/generate-parentheses/solution.ts)
+- [Solution](dynamic-programming/generate-parentheses/solution.ts)
 
 * Jump Game
 
 - [Problem](https://leetcode.com/problems/jump-game/)
-- [Solution](algorithms/dynamic-programming/jump-game/solution.ts)
+- [Solution](dynamic-programming/jump-game/solution.ts)
 
 * Decode Ways
 
 - [Problem](https://leetcode.com/problems/decode-ways/)
-- [Solution](algorithms/dynamic-programming/decode-ways/solution.ts)
+- [Solution](dynamic-programming/decode-ways/solution.ts)
 
 * Best Time to Buy and Sell Stock II
 
 - [Problem](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
-- [Solution](algorithms/dynamic-programming/best-time-to-buy-and-sell-stock-2/solution.ts)
+- [Solution](dynamic-programming/best-time-to-buy-and-sell-stock-2/solution.ts)
 
 * Palindrome Partitioning
 
 - [Problem](https://leetcode.com/problems/palindrome-partitioning/submissions/)
-- [Solution](algorithms/dynamic-programming/palindrome-partitioning/solution.ts)
+- [Solution](dynamic-programming/palindrome-partitioning/solution.ts)
 
 * Maximum Product Subarray
 
 - [Problem](https://leetcode.com/problems/word-break/)
-- [Solution](algorithms/dynamic-programming/maximum-product-subarray/solution.ts)
+- [Solution](dynamic-programming/maximum-product-subarray/solution.ts)
 
 * Word Break
 
 - [Problem](https://leetcode.com/problems/word-break/)
-- [Solution](algorithms/dynamic-programming/word-break/solution.ts)
+- [Solution](dynamic-programming/word-break/solution.ts)
 
 * Coin Change
 
 - [Problem](https://leetcode.com/problems/coin-change/)
-- [Solution](algorithms/dynamic-programming/coin-change/solution.ts)
+- [Solution](dynamic-programming/coin-change/solution.ts)
 
 * House Rubber
 
 - [Problem](https://leetcode.com/problems/house-robber/)
-- [Solution](algorithms/dynamic-programming/house-robber/solution.ts)
+- [Solution](dynamic-programming/house-robber/solution.ts)
