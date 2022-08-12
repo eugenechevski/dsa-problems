@@ -125,6 +125,11 @@
 - [Problem](https://leetcode.com/problems/reorder-list/)
 - [Solution](linked-list/reorder-list/solution.py)
 
+* Remove Nth Node From End of List
+
+- [Problem](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+- [Solution](linked-list/remove-nth-node-from-end-of-list/solution.py)
+
 ## Array
 
 * Remove Duplicates from Sorted Array
