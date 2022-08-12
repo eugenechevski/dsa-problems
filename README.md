@@ -118,6 +118,7 @@
 - [Problem](https://leetcode.com/problems/shuffle-an-array/)
 - [Solution](math/shuffle-array/solution.ts)
 
+
 ## Linked List
 
 * Reorder List
@@ -129,6 +130,22 @@
 
 - [Problem](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 - [Solution](linked-list/remove-nth-node-from-end-of-list/solution.py)
+
+* Copy List With Random Pointer
+
+- [Problem](https://leetcode.com/problems/copy-list-with-random-pointer/)
+- [Solution](linked-list/copy-list-with-random-pointer/solution.py)
+
+* Merge Two Sorted Lists
+
+- [Problem](https://leetcode.com/problems/merge-two-sorted-lists/)
+- [Solution](linked-list/merge-two-sorted-lists/solution.py)
+
+* Reverse Linked List
+
+- [Problem](https://leetcode.com/problems/reverse-linked-list/)
+- [Solution](linked-list/reverse-linked-list/solution.py)
+
 
 ## Array
 
