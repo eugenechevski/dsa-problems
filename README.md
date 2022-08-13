@@ -146,6 +146,16 @@
 - [Problem](https://leetcode.com/problems/reverse-linked-list/)
 - [Solution](linked-list/reverse-linked-list/solution.py)
 
+* Add Two Numbers
+
+- [Problem](https://leetcode.com/problems/add-two-numbers/)
+- [Solution](linked-list/add-two-numbers/solution.py)
+
+* Linked List Cycle
+
+- [Problem](https://leetcode.com/problems/linked-list-cycle/)
+- [Solution](linked-list/linked-list-cycle/solution.py)
+
 
 ## Array
 
