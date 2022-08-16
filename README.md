@@ -156,6 +156,11 @@
 - [Problem](https://leetcode.com/problems/linked-list-cycle/)
 - [Solution](linked-list/linked-list-cycle/solution.py)
 
+* LRU Cache
+
+- [Problem](https://leetcode.com/problems/lru-cache/)
+- [Solution](linked-list/lru-cache/solution.py)
+
 
 ## Array
 
