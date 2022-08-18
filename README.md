@@ -161,6 +161,11 @@
 - [Problem](https://leetcode.com/problems/lru-cache/)
 - [Solution](linked-list/lru-cache/solution.py)
 
+* Merge K Sorted Lists
+
+- [Problem](https://leetcode.com/problems/merge-k-sorted-lists/)
+- [Solution](linked-list/merge-k-sorted-lists/solution.py)
+
 
 ## Array
 
