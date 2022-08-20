@@ -166,6 +166,11 @@
 - [Problem](https://leetcode.com/problems/merge-k-sorted-lists/)
 - [Solution](linked-list/merge-k-sorted-lists/solution.py)
 
+* Reverse Nodes in k-Group
+
+- [Problem](https://leetcode.com/problems/reverse-nodes-in-k-group/)
+- [Solution](linked-list/reverse-nodes-in-k-group/solution.py)
+
 
 ## Array
 
