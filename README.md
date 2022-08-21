@@ -172,6 +172,14 @@
 - [Solution](linked-list/reverse-nodes-in-k-group/solution.py)
 
 
+## Trees
+
+* Invert Binary Tree
+
+- [Problem](https://leetcode.com/problems/invert-binary-tree/)
+- [Solution](trees/invert-binary-tree/solution.py)
+
+
 ## Array
 
 * Remove Duplicates from Sorted Array
