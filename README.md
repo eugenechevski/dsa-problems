@@ -179,6 +179,11 @@
 - [Problem](https://leetcode.com/problems/invert-binary-tree/)
 - [Solution](trees/invert-binary-tree/solution.py)
 
+* Maximum Depth of Binary Tree
+
+- [Problem](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+- [Solution](trees/maximum-depth-of-binary-tree/solution.py)
+
 
 ## Array
 
