@@ -184,6 +184,11 @@
 - [Problem](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 - [Solution](trees/maximum-depth-of-binary-tree/solution.py)
 
+* Diameter of Binary Tree
+
+- [Problem](https://leetcode.com/problems/diameter-of-binary-tree/)
+- [Solution](trees/diameter-of-binary-tree/solution.py)
+
 
 ## Array
 
