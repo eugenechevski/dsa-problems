@@ -192,7 +192,12 @@
 * Balanced Binary Tree
 
 - [Problem](https://leetcode.com/problems/balanced-binary-tree/)
-- [Solution]()
+- [Solution](trees/balanced-binary-tree/solution.py)
+
+* Same Tree
+
+- [Problem](https://leetcode.com/problems/same-tree/)
+- [Solution](trees/same-tree/solution.py)
 
 
 ## Array

@@ -33,6 +33,9 @@ Constraints:
 #         self.right = right
 
 
+from collections import deque
+
+
 class Solution:
     def isBalanced(self, root) -> bool:
         res = True
