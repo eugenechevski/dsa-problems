@@ -189,6 +189,11 @@
 - [Problem](https://leetcode.com/problems/diameter-of-binary-tree/)
 - [Solution](trees/diameter-of-binary-tree/solution.py)
 
+* Balanced Binary Tree
+
+- [Problem](https://leetcode.com/problems/balanced-binary-tree/)
+- [Solution]()
+
 
 ## Array
 
