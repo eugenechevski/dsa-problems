@@ -199,6 +199,11 @@
 - [Problem](https://leetcode.com/problems/same-tree/)
 - [Solution](trees/same-tree/solution.py)
 
+* Lowest Common Ancestor of a Binary Search Tree
+
+- [Problem](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
+- [Solution](trees/lowest-common-ancestor-of-binary-search-tree/solution.py)
+
 
 ## Array
 
