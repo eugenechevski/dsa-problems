@@ -204,6 +204,11 @@
 - [Problem](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
 - [Solution](trees/lowest-common-ancestor-of-binary-search-tree/solution.py)
 
+* Binary Tree Level Order Traversal
+
+- [Problem](https://leetcode.com/problems/binary-tree-level-order-traversal/)
+- [Solution](trees/binary-tree-level-order-traversal/solution.py)
+
 
 ## Array
 
