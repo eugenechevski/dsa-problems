@@ -214,6 +214,11 @@
 - [Problem](https://leetcode.com/problems/binary-tree-right-side-view/)
 - [Solution](trees/binary-tree-right-side-view/solution.py)
 
+* Count Good Nodes in Binary Tree
+
+- [Problem](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)
+- [Solution](trees/count-good-nodes-in-binary-tree/solution.py)
+
 
 ## Array
 
