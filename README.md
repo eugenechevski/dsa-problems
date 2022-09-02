@@ -219,6 +219,11 @@
 - [Problem](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)
 - [Solution](trees/count-good-nodes-in-binary-tree/solution.py)
 
+* Validate Binary Search Tree
+
+- [Problem](https://leetcode.com/problems/validate-binary-search-tree/)
+- [Solution](trees/validate-binary-search-tree/solution.py)
+
 
 ## Array
 
