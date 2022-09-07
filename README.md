@@ -229,6 +229,11 @@
 - [Problem](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
 - [Solution](trees/convert-binary-tree-from-preorder-and-inorder-traversal/solution.py)
 
+* Binary Tree Maximum Path Sum
+
+- [Problem](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
+- [Solution](trees/binary-tree-maximum-path-sum/solution.py)
+
 
 ## Array
 
