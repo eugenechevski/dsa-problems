@@ -224,6 +224,11 @@
 - [Problem](https://leetcode.com/problems/validate-binary-search-tree/)
 - [Solution](trees/validate-binary-search-tree/solution.py)
 
+* Construct Binary Tree from Preorder and Inorder Traversal
+
+- [Problem](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
+- [Solution](trees/convert-binary-tree-from-preorder-and-inorder-traversal/solution.py)
+
 
 ## Array
 
