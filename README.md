@@ -234,6 +234,11 @@
 - [Problem](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
 - [Solution](trees/binary-tree-maximum-path-sum/solution.py)
 
+* Serialize and Deserialize Binary Tree
+
+- [Problem](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
+- [Solution](trees/serialize-deserialize-tree/solution.py)
+
 
 ## Array
 
