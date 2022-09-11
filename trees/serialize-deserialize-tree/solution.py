@@ -56,7 +56,7 @@ class Codec:
         print(serialized)
 
         return serialized.strip()
-
+    
     def deserialize(self, data):
         """Decodes your encoded data to tree.
 

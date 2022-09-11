@@ -240,6 +240,14 @@
 - [Solution](trees/serialize-deserialize-tree/solution.py)
 
 
+## Tries
+
+* Implement Trie (Prefix Tree)
+
+- [Problem](https://leetcode.com/problems/implement-trie-prefix-tree/)
+- [Solution](tries/implement-trie/solution.py)
+
+
 ## Array
 
 * Remove Duplicates from Sorted Array
