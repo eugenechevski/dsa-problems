@@ -247,6 +247,11 @@
 - [Problem](https://leetcode.com/problems/implement-trie-prefix-tree/)
 - [Solution](tries/implement-trie/solution.py)
 
+* Design Add and Search Words Data Structure
+
+- [Problem](https://leetcode.com/problems/design-add-and-search-words-data-structure/)
+- [Solution](tries/search-words/solution.py)
+
 
 ## Array
 
