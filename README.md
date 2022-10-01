@@ -239,6 +239,11 @@
 - [Problem](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
 - [Solution](trees/serialize-deserialize-tree/solution.py)
 
+* Word Search 2
+
+- [Problem](https://leetcode.com/problems/word-search-ii/description/)
+- [Solution](tries/word-search-2/solution.py)
+
 
 ## Tries
 
