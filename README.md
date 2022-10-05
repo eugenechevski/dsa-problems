@@ -257,6 +257,17 @@
 - [Problem](https://leetcode.com/problems/design-add-and-search-words-data-structure/)
 - [Solution](tries/search-words/solution.py)
 
+## Heap
+
+* Kth Largest Element in a Stream
+
+- [Problem](https://leetcode.com/problems/kth-largest-element-in-a-stream/)
+- [Solution](heap/kth-largest-element-in-stream/solution.py)
+
+*  Last Stone Weight
+
+- [Problem](https://leetcode.com/problems/last-stone-weight)
+- [Solution](heap/last-stone-weight/solution.py)
 
 ## Array
 
