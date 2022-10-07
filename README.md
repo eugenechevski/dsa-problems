@@ -269,6 +269,12 @@
 - [Problem](https://leetcode.com/problems/last-stone-weight)
 - [Solution](heap/last-stone-weight/solution.py)
 
+* K Closest Points to Origin
+
+- [Problem](https://leetcode.com/problems/k-closest-points-to-origin)
+- [Solution](heap/k-closest-points-to-origin/solution.py)
+
+
 ## Array
 
 * Remove Duplicates from Sorted Array
