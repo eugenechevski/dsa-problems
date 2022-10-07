@@ -274,6 +274,11 @@
 - [Problem](https://leetcode.com/problems/k-closest-points-to-origin)
 - [Solution](heap/k-closest-points-to-origin/solution.py)
 
+* Kth Largest Element in an Array
+
+- [Problem](https://leetcode.com/problems/kth-largest-element-in-an-array)
+- [Solution](heap/kth-largest-element-in-array/solution.py)
+
 
 ## Array
 
