@@ -279,6 +279,11 @@
 - [Problem](https://leetcode.com/problems/kth-largest-element-in-an-array)
 - [Solution](heap/kth-largest-element-in-array/solution.py)
 
+* Task Scheduler
+
+- [Problem](https://leetcode.com/problems/task-scheduler)
+- [Solution](heap/task-scheduler/solution.py)
+
 
 ## Array
 
