@@ -289,6 +289,11 @@
 - [Problem](https://leetcode.com/problems/design-twitter)
 - [Solution](heap/design-twitter/solution.py)
 
+* Find Median from Data Stream
+
+- [Problem](https://leetcode.com/problems/find-median-from-data-stream)
+- [Solution](heap/find-median-from-data-stream/solution.py)
+
 
 ## Array
 
