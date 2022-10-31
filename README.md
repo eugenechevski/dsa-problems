@@ -284,6 +284,11 @@
 - [Problem](https://leetcode.com/problems/task-scheduler)
 - [Solution](heap/task-scheduler/solution.py)
 
+* Design Twitter
+
+- [Problem](https://leetcode.com/problems/design-twitter)
+- [Solution](heap/design-twitter/solution.py)
+
 
 ## Array
 
