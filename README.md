@@ -294,6 +294,12 @@
 - [Problem](https://leetcode.com/problems/find-median-from-data-stream)
 - [Solution](heap/find-median-from-data-stream/solution.py)
 
+## Backtracking
+
+* Combination Sum
+
+- [Problem](https://leetcode.com/problems/combination-sum)
+- [Solution](backtracking/combination-sum/solution.py)
 
 ## Array
 
