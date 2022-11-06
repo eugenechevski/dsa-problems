@@ -301,6 +301,11 @@
 - [Problem](https://leetcode.com/problems/combination-sum)
 - [Solution](backtracking/combination-sum/solution.py)
 
+* Permutations
+
+- [Problem](https://leetcode.com/problems/permutations/)
+- [Solution](backtracking/permutations/solution.py)
+
 ## Array
 
 * Remove Duplicates from Sorted Array
