@@ -311,6 +311,12 @@
 - [Problem](https://leetcode.com/problems/subsets-ii/)
 - [Solution](backtracking/subsets-2/solution.py)
 
+* Combination Sum 2
+
+- [Problem](https://leetcode.com/problems/combination-sum-ii)
+- [Solution](backtracking/combination-sum-2/solution.py)
+
+
 ## Array
 
 * Remove Duplicates from Sorted Array
