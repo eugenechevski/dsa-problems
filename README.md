@@ -306,6 +306,11 @@
 - [Problem](https://leetcode.com/problems/permutations/)
 - [Solution](backtracking/permutations/solution.py)
 
+* Subset 2
+
+- [Problem](https://leetcode.com/problems/subsets-ii/)
+- [Solution](backtracking/subsets-2/solution.py)
+
 ## Array
 
 * Remove Duplicates from Sorted Array
