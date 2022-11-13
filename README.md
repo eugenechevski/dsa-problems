@@ -316,6 +316,11 @@
 - [Problem](https://leetcode.com/problems/combination-sum-ii)
 - [Solution](backtracking/combination-sum-2/solution.py)
 
+* Word Search
+
+- [Problem](https://leetcode.com/problems/word-search)
+- [Solution](backtracking/word-search/solution.py)
+
 
 ## Array
 
