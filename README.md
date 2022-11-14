@@ -321,6 +321,11 @@
 - [Problem](https://leetcode.com/problems/word-search)
 - [Solution](backtracking/word-search/solution.py)
 
+* Letter Combinations of a Phone Number
+
+- [Problem](https://leetcode.com/problems/letter-combinations-of-a-phone-number)
+- [Solution](backtracking/letter-combinations-of-phone-number/solution.py)
+
 
 ## Array
 
