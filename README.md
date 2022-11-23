@@ -326,6 +326,11 @@
 - [Problem](https://leetcode.com/problems/letter-combinations-of-a-phone-number)
 - [Solution](backtracking/letter-combinations-of-phone-number/solution.py)
 
+* N-Queens
+
+- [Problem](https://leetcode.com/problems/n-queens)
+- [Solution](backtracking/n-queens/solution.py)
+
 
 ## Array
 
