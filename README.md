@@ -332,6 +332,13 @@
 - [Solution](backtracking/n-queens/solution.py)
 
 
+## Graphs
+
+* Number of Islands
+
+- [Problem](https://leetcode.com/problems/number-of-islands)
+- [Solution](graphs/number-of-islands/solution.py)
+
 ## Array
 
 * Remove Duplicates from Sorted Array
