@@ -344,6 +344,10 @@
 - [Problem](https://leetcode.com/problems/clone-graph)
 - [Solution](graphs/clone-graph/solution.py)
 
+* Max Area of Island
+
+- [Problem](https://leetcode.com/problems/max-area-of-island)
+- [Solution](graphs/max-area-of-island/solution.py)
 
 ## Array
 
