@@ -364,6 +364,11 @@
 - [Problem](https://leetcode.com/problems/rotting-oranges)
 - [Solution](graphs/rotting-oranges/solution.py)
 
+* Course Schedule
+
+- [Problem](https://leetcode.com/problems/course-schedule)
+- [Solution](graphs/course-schedule/solution.py)
+
 
 ## Array
 
