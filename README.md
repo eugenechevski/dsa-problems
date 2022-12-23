@@ -369,6 +369,11 @@
 - [Problem](https://leetcode.com/problems/course-schedule)
 - [Solution](graphs/course-schedule/solution.py)
 
+* Course Schedule 2
+
+- [Problem](https://leetcode.com/problems/course-schedule-ii)
+- [Solution](graphs/course-schedule-2/solution.py)
+
 
 ## Array
 
