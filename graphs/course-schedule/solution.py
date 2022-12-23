@@ -52,34 +52,34 @@ class Solution:
             graph[dep[0]].append(dep[1])
 
         path = set()  # stores the current search path
-        visited = set()  # stores the global search history
+        validated = set()  # stores the global search history
 
         def dfs(course):
-            nonlocal path, graph, visited
+            nonlocal path, graph, validated
 
             if course in path:
                 return False
-
-            if course not in graph:
+            
+            if course in validated:
                 return True
 
-            # Check all prerequisites of the course
-            path.add(course)
             res = True
-            for val in graph[course]:
-                if not dfs(val):
-                    res = False
-                    break
-
+            path.add(course)
+            if course in graph:
+                # Check all prerequisites of the course
+                for val in graph[course]:
+                    if not dfs(val):
+                        res = False
+                        break
+                    
+            if res:
+                validated.add(course)
             path.remove(course)
 
             return res
 
         # Check all courses
         for key in graph.keys():
-            if key in visited:
-                continue
-
             if not dfs(key):
                 return False
 
