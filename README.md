@@ -374,6 +374,11 @@
 - [Problem](https://leetcode.com/problems/course-schedule-ii)
 - [Solution](graphs/course-schedule-2/solution.py)
 
+* Redundant Connection
+
+- [Problem](https://leetcode.com/problems/redundant-connection)
+- [Solution](graphs/redundant-connection/solution.py)
+
 
 ## Array
 
