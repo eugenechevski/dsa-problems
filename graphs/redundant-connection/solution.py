@@ -28,6 +28,40 @@ Constraints:
 
 
 class Solution:
+    def unionFindApproach(self, edges):
+        """
+            The following code solves the problem with the Union Find algorithm in the most efficient way.
+        """
+
+        parent = [i for i in range(len(edges) + 1)]
+        ranks = [0] * (len(edges) + 1)
+
+        def find(node):
+            while parent[node] != node:
+                node = parent[node]
+            return node
+
+        def union(node1, node2):
+            if ranks[node1] >= ranks[node2]:
+                parent[node2] = node1
+                ranks[node1] += 1
+            else:
+                parent[node1] = node2
+                ranks[node2] += 1
+
+
+        for i in range(len(edges)):
+            node1, node2 = edges[i]
+            parent1, parent2 = find(node1), find(node2)
+
+            # Cycle detected
+            if parent1 == parent2:
+                return [node1, node2]
+            else:
+                union(parent1, parent2)
+
+        return []
+    
     def findRedundantConnection(self, edges):
         # Build the graph
         graph = {}
