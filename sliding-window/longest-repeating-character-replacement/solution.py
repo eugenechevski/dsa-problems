@@ -1,5 +1,5 @@
 """
-https://github.com/cherokee-rose
+https://github.com/eugenechevski
 https://leetcode.com/problems/longest-repeating-character-replacement/
 
 You are given a string s and an integer k. You can choose any 

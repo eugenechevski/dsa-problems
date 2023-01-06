@@ -1,5 +1,5 @@
 /*
-    github.com/cherokee-rose
+    github.com/eugenechevski
 
     Make a program that can print out the text form of numbers from 1 to 9999 
     (ex. 20 is "twenty", 105 is "one hundred and five", 2655 is "two thousand six hundred fifty five). 

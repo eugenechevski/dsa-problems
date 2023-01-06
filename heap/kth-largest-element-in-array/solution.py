@@ -1,5 +1,5 @@
 """
-https://github.com/cherokee-rose
+https://github.com/eugenechevski
 https://leetcode.com/problems/kth-largest-element-in-an-array
 
 Given an integer array nums and an integer k, return the kth largest element in the array.

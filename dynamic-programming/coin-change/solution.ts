@@ -1,5 +1,5 @@
 /* 
-  https://github.com/cherokee-rose
+  https://github.com/eugenechevski
   https://leetcode.com/problems/coin-change/
 
   You are given an integer array coins representing coins of different denominations 

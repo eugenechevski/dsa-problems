@@ -1,5 +1,5 @@
 """
-https://github.com/cherokee-rose
+https://github.com/eugenechevski
 https://leetcode.com/problems/task-scheduler
 
 Given a characters array tasks, representing the tasks a CPU needs to do, where each letter represents a different task. Tasks could be done in any order. 

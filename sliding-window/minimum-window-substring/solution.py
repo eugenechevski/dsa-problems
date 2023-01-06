@@ -1,5 +1,5 @@
 """
-https://github.com/cherokee-rose
+https://github.com/eugenechevski
 https://leetcode.com/problems/minimum-window-substring/
 
 Given two strings s and t of lengths m and n respectively, 

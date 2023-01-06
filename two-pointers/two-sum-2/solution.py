@@ -1,5 +1,5 @@
 """
-https://github.com/cherokee-rose
+https://github.com/eugenechevski
 https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
 
 Given a 1-indexed array of integers numbers that is already sorted in non-decreasing order, 

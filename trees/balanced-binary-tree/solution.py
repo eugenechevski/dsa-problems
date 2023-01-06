@@ -1,5 +1,5 @@
 """
-https://github.com/cherokee-rose
+https://github.com/eugenechevski
 https://leetcode.com/problems/balanced-binary-tree/
 
 Given a binary tree, determine if it is height-balanced.

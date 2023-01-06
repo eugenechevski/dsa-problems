@@ -1,6 +1,6 @@
 /* 
     https://leetcode.com/problems/merge-sorted-array/
-    https://github.com/cherokee-rose
+    https://github.com/eugenechevski
 
     You are given two integer arrays nums1 and nums2, sorted in non-decreasing order, and two integers m and n, 
     representing the number of elements in nums1 and nums2 respectively.

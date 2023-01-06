@@ -1,6 +1,6 @@
 """
 https://leetcode.com/problems/subsets-ii/
-https://github.com/cherokee-rose
+https://github.com/eugenechevski
 
 Given an integer array nums that may contain duplicates, return all possible
 subsets (the power set).

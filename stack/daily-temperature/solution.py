@@ -1,5 +1,5 @@
 """
-https://github.com/cherokee-rose
+https://github.com/eugenechevski
 https://leetcode.com/problems/daily-temperatures/
 
 Given an array of integers temperatures represents the daily temperatures, 

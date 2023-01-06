@@ -1,6 +1,6 @@
 /*
     https://leetcode.com/problems/rotate-array/
-    https://github.com/cherokee-rose
+    https://github.com/eugenechevski
 
     Given an array, rotate the array to the right by k steps, where k is non-negative.
 

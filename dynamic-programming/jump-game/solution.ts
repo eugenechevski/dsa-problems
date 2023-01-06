@@ -1,5 +1,5 @@
 /* 
-  https://github.com/cherokee-rose
+  https://github.com/eugenechevski
   https://leetcode.com/problems/jump-game/
 
   You are given an integer array nums. You are initially positioned at the array's first index, 

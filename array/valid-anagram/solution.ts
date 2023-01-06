@@ -1,5 +1,5 @@
 /*
-  https://github.com/cherokee-rose
+  https://github.com/eugenechevski
   https://leetcode.com/problems/valid-anagram/
   
   Given two strings s and t, return true if t is an anagram of s, and false otherwise.

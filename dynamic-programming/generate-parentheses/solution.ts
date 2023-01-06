@@ -1,6 +1,6 @@
 /* 
   https://leetcode.com/problems/generate-parentheses/
-  https://github.com/cherokee-rose
+  https://github.com/eugenechevski
 
   Given n pairs of parentheses, write a function to generate all combinations of well-formed parentheses.
 

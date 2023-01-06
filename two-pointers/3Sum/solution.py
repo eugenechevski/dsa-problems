@@ -1,5 +1,5 @@
 """
-https://github.com/cherokee-rose
+https://github.com/eugenechevski
 https://leetcode.com/problems/3sum/
 
 Given an integer array nums, return all the triplets [nums[i], nums[j], nums[k]] 

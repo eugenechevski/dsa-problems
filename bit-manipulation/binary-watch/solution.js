@@ -1,5 +1,5 @@
 /*
-    github.com/cherokee-rose
+    github.com/eugenechevski
 
     A binary watch has 4 LEDs on the top which represent the hours (0-11), 
     and the 6 LEDs on the bottom represent the minutes (0-59). 

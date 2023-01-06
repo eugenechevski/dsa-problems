@@ -1,5 +1,5 @@
 /*
-  https://github.com/cherokee-rose
+  https://github.com/eugenechevski
   https://leetcode.com/problems/get-maximum-in-generated-array/
 
   You are given an integer n. A 0-indexed integer array nums of length n + 1 is generated in the following way:

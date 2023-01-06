@@ -1,5 +1,5 @@
 """
-https://github.com/cherokee-rose
+https://github.com/eugenechevski
 https://leetcode.com/problems/car-fleet/
 
 There are n cars going to the same destination along a one-lane road. The destination is target miles away.

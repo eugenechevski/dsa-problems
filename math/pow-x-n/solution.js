@@ -1,6 +1,6 @@
 /*
     https://leetcode.com/problems/powx-n/
-    https://github.com/cherokee-rose
+    https://github.com/eugenechevski
 
     Implement pow(x, n), which calculates x raised to the power n (i.e., x^n).
 

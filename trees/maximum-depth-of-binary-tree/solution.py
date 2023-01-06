@@ -1,5 +1,5 @@
 """
-https://github.com/cherokee-rose
+https://github.com/eugenechevski
 https://leetcode.com/problems/maximum-depth-of-binary-tree/
 
 Given the root of a binary tree, return its maximum depth.

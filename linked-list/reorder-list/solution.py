@@ -1,5 +1,5 @@
 """
-https://github.com/cherokee-rose
+https://github.com/eugenechevski
 https://leetcode.com/problems/reorder-list/
 
 You are given the head of a singly linked-list. The list can be represented as:

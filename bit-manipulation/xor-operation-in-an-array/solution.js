@@ -1,5 +1,5 @@
 /*
-    github.com/cherokee-rose
+    github.com/eugenechevski
 
     Given an integer n and an integer start.
     Define an array nums where nums[i] = start + 2 * i (0-indexed) and n == nums.length.

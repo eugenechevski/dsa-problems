@@ -1,5 +1,5 @@
 /* 
-    github.com/cherokee-rose
+    github.com/eugenechevski
     Source: LeetCode  
 
     Given two binary strings a and b, return their sum as a binary string.

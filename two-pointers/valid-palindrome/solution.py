@@ -1,5 +1,5 @@
 """
-http://github.com/cherokee-rose
+http://github.com/eugenechevski
 https://leetcode.com/problems/valid-palindrome/
 
 A phrase is a palindrome if, after converting all uppercase letters into lowercase letters and 

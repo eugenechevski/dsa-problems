@@ -1,6 +1,6 @@
 /* 
     https://leetcode.com/problems/perfect-squares/
-    https://github.com/cherokee-rose
+    https://github.com/eugenechevski
 
     Given an integer n, return the least number of perfect square numbers that sum to n.
     A perfect square is an integer that is the square of an integer; in other words, 

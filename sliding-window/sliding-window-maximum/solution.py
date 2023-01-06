@@ -1,5 +1,5 @@
 """
-https://github.com/cherokee-rose
+https://github.com/eugenechevski
 https://leetcode.com/problems/sliding-window-maximum/
 
 You are given an array of integers nums, there is a sliding window of size k which is moving 

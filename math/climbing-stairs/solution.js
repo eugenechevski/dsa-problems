@@ -1,5 +1,5 @@
 /* 
-    github.com/cherokee-rose
+    github.com/eugenechevski
     https://leetcode.com/problems/climbing-stairs/
 
     You are climbing a staircase. It takes n steps to reach the top.

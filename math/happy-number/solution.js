@@ -1,5 +1,5 @@
 /* 
-    github.com/cherokee-rose
+    github.com/eugenechevski
     https://leetcode.com/problems/happy-number/
 
     A happy number is a number defined by the following process:

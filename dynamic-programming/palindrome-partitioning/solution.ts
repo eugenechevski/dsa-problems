@@ -1,6 +1,6 @@
 /*
   https://leetcode.com/problems/palindrome-partitioning/
-  https://github.com/cherokee-rose
+  https://github.com/eugenechevski
 
   Given a string s, partition s such that every substring of the partition is a palindrome. 
   Return all possible palindrome partitioning of s.

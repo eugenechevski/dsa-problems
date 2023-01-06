@@ -1,5 +1,5 @@
 /*
-    github.com/cherokee-rose
+    github.com/eugenechevski
 
     Given an integer array arr. You have to sort the integers in the array in ascending order by 
     the number of 1's in their binary representation and in case of two or more integers have the 

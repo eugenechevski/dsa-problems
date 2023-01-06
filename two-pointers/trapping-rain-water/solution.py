@@ -1,5 +1,5 @@
 """
-https://github.com/cherokee-rose
+https://github.com/eugenechevski
 https://leetcode.com/problems/trapping-rain-water/
 
 Given n non-negative integers representing an elevation map where the width of each bar is 1, 

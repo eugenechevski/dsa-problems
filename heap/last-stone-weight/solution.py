@@ -1,5 +1,5 @@
 """
-https://github.com/cherokee-rose
+https://github.com/eugenechevski
 https://leetcode.com/problems/last-stone-weight
 
 You are given an array of integers stones where stones[i] is the weight of the ith stone.

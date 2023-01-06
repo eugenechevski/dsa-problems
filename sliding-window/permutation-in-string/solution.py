@@ -1,5 +1,5 @@
 """
-https://github.com/cherokee-rose
+https://github.com/eugenechevski
 https://leetcode.com/problems/permutation-in-string/
 
 Given two strings s1 and s2, return true if s2 contains a permutation of s1, or false otherwise.

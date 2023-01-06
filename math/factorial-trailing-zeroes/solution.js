@@ -1,6 +1,6 @@
 /*
     https://leetcode.com/problems/factorial-trailing-zeroes/
-    https://github.com/cherokee-rose
+    https://github.com/eugenechevski
 
     Given an integer n, return the number of trailing zeroes in n!.
 

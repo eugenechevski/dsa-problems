@@ -1,5 +1,5 @@
 """
-https://github.com/cherokee-rose
+https://github.com/eugenechevski
 https://leetcode.com/problems/redundant-connection
 
 In this problem, a tree is an undirected graph that is connected and has no cycles.

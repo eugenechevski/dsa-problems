@@ -1,5 +1,5 @@
 /* 
-    github.com/cherokee-rose
+    github.com/eugenechevski
     Source: LeetCode    
 
     Roman numerals are represented by seven different symbols: I, V, X, L, C, D and M.

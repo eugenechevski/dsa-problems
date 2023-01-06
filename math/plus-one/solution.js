@@ -1,5 +1,5 @@
 /* 
-    github.com/cherokee-rose
+    github.com/eugenechevski
     https://leetcode.com/problems/plus-one/
 
     You are given a large integer represented as an integer array digits, where each digits[i] is the ith digit of the integer. 

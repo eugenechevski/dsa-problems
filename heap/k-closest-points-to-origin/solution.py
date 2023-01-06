@@ -1,5 +1,5 @@
 """
-https://github.com/cherokee-rose
+https://github.com/eugenechevski
 https://leetcode.com/problems/k-farthest-points-to-origin/
 
 Given an array of points where points[i] = [xi, yi] represents a point on the X-Y plane and an integer k, return the k farthest points to the origin (0, 0).

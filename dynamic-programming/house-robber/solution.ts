@@ -1,5 +1,5 @@
 /* 
-  https://github.com/cherokee-rose
+  https://github.com/eugenechevski
   https://leetcode.com/problems/house-robber/
 
   You are a professional robber planning to rob houses along a street. 

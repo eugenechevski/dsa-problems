@@ -1,5 +1,5 @@
 /*
-    github.com/cherokee-rose
+    github.com/eugenechevski
 
     A string s is nice if, for every letter of the alphabet that s contains, it appears both in uppercase and lowercase. 
     For example, "abABB" is nice because 'A' and 'a' appear, and 'B' and 'b' appear. However, "abA" is not because 'b' appears, 

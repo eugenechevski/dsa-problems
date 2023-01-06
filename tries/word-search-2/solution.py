@@ -1,5 +1,5 @@
 """
-https://github.com/cherokee-rose
+https://github.com/eugenechevski
 https://leetcode.com/problems/word-search-ii/
 
 Given an m x n board of characters and a list of strings words, return all words on the board.

@@ -1,6 +1,6 @@
 /* 
   https://leetcode.com/problems/divisor-game/
-  https://github.com/cherokee-rose
+  https://github.com/eugenechevski
 
   Alice and Bob take turns playing a game, with Alice starting first.
   Initially, there is a number n on the chalkboard. On each player's turn, that player makes a move consisting of:
