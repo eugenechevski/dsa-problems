@@ -384,6 +384,11 @@
 - [Problem](https://leetcode.com/problems/word-ladder)
 - [Solution](graphs/word-ladder/solution.py)
 
+* Count Sub Islands
+
+- [Problem](https://leetcode.com/problems/count-sub-islands)
+- [Solution](graphs/count-sub-islands/solution.py)
+
 
 ## Array
 
