@@ -389,6 +389,11 @@
 - [Problem](https://leetcode.com/problems/count-sub-islands)
 - [Solution](graphs/count-sub-islands/solution.py)
 
+* Reorder Routes to Make All Paths Lead to the City Zero
+
+- [Problem](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero)
+- [Solution](graphs/reorder-paths/solution.py)
+
 
 ## Array
 
