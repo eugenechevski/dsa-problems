@@ -394,6 +394,11 @@
 - [Problem](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero)
 - [Solution](graphs/reorder-paths/solution.py)
 
+* Snakes and Ladders
+
+- [Problem](https://leetcode.com/problems/snakes-and-ladders)
+- [Solution](graphs/snakes-and-ladders/solution.py)
+
 
 ## Array
 
