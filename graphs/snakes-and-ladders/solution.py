@@ -52,36 +52,33 @@ class Solution:
 
             row, col = n - 1 - label // n, label % n
 
-            if row % 2 == 0:
+            if (label // n) % 2 == 1:
                 col = n - col - 1
-
+            
             return [row, col]
 
         while q:
             levelLength = len(q)
-            print(q)
 
             for _ in range(levelLength):
                 currentLabel = q.popleft()
-
+                
                 # The destination is reached
                 if currentLabel == n ** 2 - 1:
                     return timesMoved
 
                 # Add next moves
-                for i in range(1, min(6, n ** 2 - currentLabel)):
+                for i in range(1, min(7, n ** 2 - currentLabel)):
                     nextLabel = currentLabel + i
                     row, col = getCoordinates(nextLabel)
 
-                    print(row, col)
-
                     # A snake or a ladder
                     if board[row][col] != -1:
-                        nextLabel = board[row][col]
+                        nextLabel = board[row][col] - 1
 
                     if nextLabel not in visited:
                         q.append(nextLabel)
-                        visited.add(nextLabel)
+                        visited.add(nextLabel)                                       
 
             timesMoved += 1
 

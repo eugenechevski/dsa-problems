@@ -399,6 +399,11 @@
 - [Problem](https://leetcode.com/problems/snakes-and-ladders)
 - [Solution](graphs/snakes-and-ladders/solution.py)
 
+* Open the Lock
+
+- [Problem](https://leetcode.com/problems/open-the-lock)
+- [Solution](graphs/open-the-lock/solution.py)
+
 
 ## Array
 
