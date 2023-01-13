@@ -404,6 +404,11 @@
 - [Problem](https://leetcode.com/problems/open-the-lock)
 - [Solution](graphs/open-the-lock/solution.py)
 
+* Find Eventual Safe States
+
+- [Problem](https://leetcode.com/problems/find-eventual-safe-states)
+- [Solution](graphs/find-eventual-safe-states/solution.py)
+
 
 ## Array
 
