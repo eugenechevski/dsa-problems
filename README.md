@@ -409,6 +409,11 @@
 - [Problem](https://leetcode.com/problems/find-eventual-safe-states)
 - [Solution](graphs/find-eventual-safe-states/solution.py)
 
+* Check if Move is Legal
+
+- [Problem](https://leetcode.com/problems/check-if-move-is-legal)
+- [Solution](graphs/check-if-move-is-legal/solution.py)
+
 
 ## Array
 
