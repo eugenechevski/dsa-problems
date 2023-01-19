@@ -414,6 +414,11 @@
 - [Problem](https://leetcode.com/problems/check-if-move-is-legal)
 - [Solution](graphs/check-if-move-is-legal/solution.py)
 
+* Shortest Bridge
+
+- [Problem](https://leetcode.com/problems/shortest-bridge)
+- [Solution](graphs/shortest-bridge/solution.py)
+
 
 ## Array
 
