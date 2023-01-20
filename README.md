@@ -676,3 +676,8 @@
 
 - [Problem](https://leetcode.com/problems/house-robber/)
 - [Solution](dynamic-programming/house-robber/solution.ts)
+
+* Minimum Number of Days to Eat N Oranges
+
+- [Problem](https://leetcode.com/problems/minimum-number-of-days-to-eat-n-oranges)
+- [Solution](dynamic-programming/minimum-number-of-days-to-eat-n-oranges/solution.py)
