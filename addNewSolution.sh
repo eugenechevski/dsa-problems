@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/bin/bash
 
 echo "Enter the location of the new folder:"
 read folderLocation

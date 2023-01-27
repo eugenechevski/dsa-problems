@@ -419,6 +419,11 @@
 - [Problem](https://leetcode.com/problems/shortest-bridge)
 - [Solution](graphs/shortest-bridge/solution.py)
 
+* Reconstruct Itinerary
+
+- [Problem](https://leetcode.com/problems/reconstruct-itinerary)
+- [Solution](graphs/reconstruct-itinerary/solution.py)
+
 
 ## Array
 
