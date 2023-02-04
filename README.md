@@ -424,6 +424,11 @@
 - [Problem](https://leetcode.com/problems/reconstruct-itinerary)
 - [Solution](graphs/reconstruct-itinerary/solution.py)
 
+* Min Cost to Connect All Points
+
+- [Problem](https://leetcode.com/problems/min-cost-to-connect-all-points)
+- [Solution](graphs/min-cost-to-connect-all-points/solution.py)
+
 
 ## Array
 
