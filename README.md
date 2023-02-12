@@ -429,6 +429,11 @@
 - [Problem](https://leetcode.com/problems/min-cost-to-connect-all-points)
 - [Solution](graphs/min-cost-to-connect-all-points/solution.py)
 
+* Network Delay Time
+
+- [Problem](https://leetcode.com/problems/network-delay-time)
+- [Solution](graphs/network-delay-time/solution.py)
+
 
 ## Array
 
