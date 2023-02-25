@@ -419,6 +419,11 @@
 - [Problem](https://leetcode.com/problems/shortest-bridge)
 - [Solution](graphs/shortest-bridge/solution.py)
 
+* Swim in Rising Water
+
+- [Problem](https://leetcode.com/problems/swim-in-rising-water)
+- [Solution](graphs/swim-in-rising-water/solution.py)
+
 * Reconstruct Itinerary
 
 - [Problem](https://leetcode.com/problems/reconstruct-itinerary)
