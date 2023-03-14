@@ -701,3 +701,8 @@
 
 - [Problem](https://leetcode.com/problems/minimum-number-of-days-to-eat-n-oranges)
 - [Solution](dynamic-programming/minimum-number-of-days-to-eat-n-oranges/solution.py)
+
+* Palindromic Substrings
+
+- [Problem](https://leetcode.com/problems/palindromic-substrings)
+- [Solution](dynamic-programming/palindromic-substrings/solution.py)
