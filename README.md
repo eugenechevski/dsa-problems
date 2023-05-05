@@ -680,7 +680,7 @@
 * Maximum Product Subarray
 
 - [Problem](https://leetcode.com/problems/word-break/)
-- [Solution](dynamic-programming/maximum-product-subarray/solution.ts)
+- [Solution](dynamic-programming/maximum-product-subarray/solution.py)
 
 * Word Break
 
