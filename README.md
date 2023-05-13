@@ -706,3 +706,8 @@
 
 - [Problem](https://leetcode.com/problems/palindromic-substrings)
 - [Solution](dynamic-programming/palindromic-substrings/solution.py)
+
+* Longest Increasing Subsequence
+
+- [Problem](https://leetcode.com/problems/longest-increasing-subsequence)
+- [Solution](dynamic-programming/longest-increasing-subsequence/solution.py)
