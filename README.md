@@ -711,3 +711,8 @@
 
 - [Problem](https://leetcode.com/problems/longest-increasing-subsequence)
 - [Solution](dynamic-programming/longest-increasing-subsequence/solution.py)
+
+* Partition Equal Subset Sum
+
+- [Problem](https://leetcode.com/problems/partition-equal-subset-sum)
+- [Solution](dynamic-programming/partition-equal-subset-sum/solution.py)
