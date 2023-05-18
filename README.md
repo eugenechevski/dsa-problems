@@ -716,3 +716,8 @@
 
 - [Problem](https://leetcode.com/problems/partition-equal-subset-sum)
 - [Solution](dynamic-programming/partition-equal-subset-sum/solution.py)
+
+* Longest Common Subsequence
+
+- [Problem](https://leetcode.com/problems/longest-common-subsequence)
+- [Solution](dynamic-programming/longest-common-subsequence/solution.py)
