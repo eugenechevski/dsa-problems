@@ -731,3 +731,8 @@
 
 - [Problem](https://leetcode.com/problems/coin-change-2)
 - [Solution](dynamic-programming/coin-change-2/solution.py)
+
+* Target Sum
+
+- [Problem](https://leetcode.com/problems/target-sum)
+- [Solution](dynamic-programming/target-sum/solution.py)
