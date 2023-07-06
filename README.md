@@ -741,3 +741,8 @@
 
 - [Problem](https://leetcode.com/problems/interleaving-string)
 - [Solution](dynamic-programming/interleaving-string/solution.py)
+
+* Longest Increasing Path in a Matrix
+
+- [Problem](https://leetcode.com/problems/longest-increasing-path-in-a-matrix)
+- [Solution](dynamic-programming/longest-increasing-path-in-a-matrix/solution.py)
