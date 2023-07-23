@@ -746,3 +746,8 @@
 
 - [Problem](https://leetcode.com/problems/longest-increasing-path-in-a-matrix)
 - [Solution](dynamic-programming/longest-increasing-path-in-a-matrix/solution.py)
+
+* Distinct Subsequences
+
+- [Problem](https://leetcode.com/problems/distinct-subsequences)
+- [Solution](dynamic-programming/distinct-subsequences/solution.py)
