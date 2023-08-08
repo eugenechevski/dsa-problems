@@ -751,3 +751,8 @@
 
 - [Problem](https://leetcode.com/problems/distinct-subsequences)
 - [Solution](dynamic-programming/distinct-subsequences/solution.py)
+
+* Burst Balloons
+
+- [Problem](https://leetcode.com/problems/burst-balloons)
+- [Solution](dynamic-programming/burst-balloons/solution.py)
