@@ -470,7 +470,7 @@
 * Group Anagrams
 
 - [Problem](https://leetcode.com/problems/group-anagrams/)
-- [Solution](array/group-anagrams/solution.ts)
+- [Solution](array/group-anagrams/solution.py)
 
 * Contains Duplicate
 
