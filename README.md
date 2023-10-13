@@ -507,6 +507,11 @@
 - [Problem](https://leetcode.com/problems/longest-consecutive-sequence/)
 - [Solution](array/longest-consecutive-sequence/solution.py)
 
+* Longest Common Prefix
+
+- [Problem](https://leetcode.com/problems/longest-common-prefix/)
+- [Solution](array/longest-common-prefix/solution.py)
+
 
 ## Two Pointers
 
