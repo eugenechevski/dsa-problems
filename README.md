@@ -512,6 +512,11 @@
 - [Problem](https://leetcode.com/problems/longest-common-prefix/)
 - [Solution](array/longest-common-prefix/solution.py)
 
+* Isomorphic Strings
+
+- [Problem](https://leetcode.com/problems/isomorphic-strings/)
+- [Solution](array/isomorphic-strings/solution.py)
+
 
 ## Two Pointers
 

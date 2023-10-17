@@ -5,3 +5,4 @@ todo.md
 node_modules
 package*.json
 .prettierrc
+*test*
