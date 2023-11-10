@@ -517,6 +517,11 @@
 - [Problem](https://leetcode.com/problems/isomorphic-strings/)
 - [Solution](array/isomorphic-strings/solution.py)
 
+* Sort an Array
+
+- [Problem](https://leetcode.com/problems/sort-an-array/)
+- [Solution](array/merge-sort/solution.py)
+
 
 ## Two Pointers
 
