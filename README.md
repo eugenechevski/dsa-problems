@@ -522,6 +522,11 @@
 - [Problem](https://leetcode.com/problems/sort-an-array/)
 - [Solution](array/merge-sort/solution.py)
 
+* Sort Colors
+
+- [Problem](https://leetcode.com/problems/sort-colors/)
+- [Solution](array/sort-colors/solution.py)
+
 
 ## Two Pointers
 
