@@ -527,6 +527,11 @@
 - [Problem](https://leetcode.com/problems/sort-colors/)
 - [Solution](array/sort-colors/solution.py)
 
+* Unique Length-3 Palindromic Subsequences
+
+- [Problem](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/)
+- [Solution](array/unique-length-3-palindromic-subsequences/solution.py)
+
 
 ## Two Pointers
 
