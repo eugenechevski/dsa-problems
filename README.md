@@ -537,6 +537,11 @@
 - [Problem](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/)
 - [Solution](array/minimum-number-of-swaps-to-make-the-string-balanced/solution.py)
 
+* Number of Pairs of Interchangeable Rectangles
+
+- [Problem](https://leetcode.com/problems/number-of-pairs-of-interchangeable-rectangles/)
+- [Solution](array/number-of-pairs-of-interchangeable-rectangles/solution.py)
+
 
 ## Two Pointers
 
