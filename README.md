@@ -532,6 +532,11 @@
 - [Problem](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/)
 - [Solution](array/unique-length-3-palindromic-subsequences/solution.py)
 
+* Minimum Number of Swaps to Make the String Balanced
+
+- [Problem](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/)
+- [Solution](array/minimum-number-of-swaps-to-make-the-string-balanced/solution.py)
+
 
 ## Two Pointers
 
