@@ -542,6 +542,11 @@
 - [Problem](https://leetcode.com/problems/number-of-pairs-of-interchangeable-rectangles/)
 - [Solution](array/number-of-pairs-of-interchangeable-rectangles/solution.py)
 
+* Maximum Product of the Length of Two Palindromic Subsequences
+
+- [Problem](https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-subsequences/)
+- [Solution](array/maximum-product-of-the-length-of-two-palindromic-subsequences/solution.py)
+
 
 ## Two Pointers
 
