@@ -547,6 +547,11 @@
 - [Problem](https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-subsequences/)
 - [Solution](array/maximum-product-of-the-length-of-two-palindromic-subsequences/solution.py)
 
+* Grid Game
+
+- [Problem](https://leetcode.com/problems/grid-game/)
+- [Solution](array/grid-game/solution.py)
+
 
 ## Two Pointers
 
@@ -574,6 +579,7 @@
 
 - [Problem](https://leetcode.com/problems/trapping-rain-water/)
 - [Solution](two-pointers/trapping-rain-water/solution.py)
+
 
 
 ## Sliding Window
