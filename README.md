@@ -580,6 +580,10 @@
 - [Problem](https://leetcode.com/problems/trapping-rain-water/)
 - [Solution](two-pointers/trapping-rain-water/solution.py)
 
+* Find All Anagrams in a String
+
+- [Problem](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
+- [Solution](array/find-all-anagrams-in-a-string/solution.py)
 
 
 ## Sliding Window
