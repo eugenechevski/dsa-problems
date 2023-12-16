@@ -552,6 +552,16 @@
 - [Problem](https://leetcode.com/problems/grid-game/)
 - [Solution](array/grid-game/solution.py)
 
+* Find All Anagrams in a String
+
+- [Problem](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
+- [Solution](array/find-all-anagrams-in-a-string/solution.py)
+
+* Find the Index of the First Occurrence in a String
+
+- [Problem](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)
+- [Solution](array/find-the-index-of-the-first-occurrence-in-a-string/solution.py)
+
 
 ## Two Pointers
 
@@ -579,11 +589,6 @@
 
 - [Problem](https://leetcode.com/problems/trapping-rain-water/)
 - [Solution](two-pointers/trapping-rain-water/solution.py)
-
-* Find All Anagrams in a String
-
-- [Problem](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
-- [Solution](array/find-all-anagrams-in-a-string/solution.py)
 
 
 ## Sliding Window
