@@ -562,6 +562,11 @@
 - [Problem](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)
 - [Solution](array/find-the-index-of-the-first-occurrence-in-a-string/solution.py)
 
+* Largest Number
+
+- [Problem](https://leetcode.com/problems/largest-number/)
+- [Solution](array/largest-number/solution.py)
+
 
 ## Two Pointers
 
