@@ -572,6 +572,11 @@
 - [Problem](https://leetcode.com/problems/continuous-subarray-sum/)
 - [Solution](array/continuous-subarray-sum/solution.py)
 
+* Push Dominoes
+
+- [Problem](https://leetcode.com/problems/push-dominoes/)
+- [Solution](array/push-dominoes/solution.py)
+
 
 ## Two Pointers
 
