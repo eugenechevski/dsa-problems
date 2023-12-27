@@ -577,6 +577,11 @@
 - [Problem](https://leetcode.com/problems/push-dominoes/)
 - [Solution](array/push-dominoes/solution.py)
 
+* Repeated DNA Sequences
+
+- [Problem](https://leetcode.com/problems/repeated-dna-sequences/)
+- [Solution](array/repeated-dna-sequences/solution.py)
+
 
 ## Two Pointers
 
