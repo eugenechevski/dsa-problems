@@ -582,6 +582,11 @@
 - [Problem](https://leetcode.com/problems/repeated-dna-sequences/)
 - [Solution](array/repeated-dna-sequences/solution.py)
 
+* Insert Delete GetRandom O(1)
+
+- [Problem](https://leetcode.com/problems/insert-delete-getrandom-o1/)
+- [Solution](array/insert-delete-getrandom-o(1)/solution.py)
+
 
 ## Two Pointers
 
