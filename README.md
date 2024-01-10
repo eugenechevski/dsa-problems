@@ -592,6 +592,11 @@
 - [Problem](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/)
 - [Solution](array/check-if-a-string-contains-all-binary-codes-of-size-k/solution.py)
 
+* Range Sum Query 2D - Immutable
+
+- [Problem](https://leetcode.com/problems/range-sum-query-2d-immutable/)
+- [Solution](array/range-sum-query-2d-immutable/solution.py)
+
 
 ## Two Pointers
 
