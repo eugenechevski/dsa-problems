@@ -597,6 +597,11 @@
 - [Problem](https://leetcode.com/problems/range-sum-query-2d-immutable/)
 - [Solution](array/range-sum-query-2d-immutable/solution.py)
 
+* First Missing Positive
+
+- [Problem](https://leetcode.com/problems/first-missing-positive/)
+- [Solution](array/first-missing-positive/solution.py)
+
 
 ## Two Pointers
 
@@ -608,20 +613,30 @@
 * Two Sum 
 
 - [Problem](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
-- [Solution](two-pointers/two-sum-2/solution.py)
+- [Solution](two-pointers/two-sum-2/solclass Solution:
+    def firstMissingPositive(self, nums: List[int]) -> int:
+        # Cycle sort
+        # Swap elements until nums[i] == i + 1
+        for i in range(len(nums)):
+            # We only care about positive numbers and those that are
+            # less than the size of the array
+            while (
+                nums[i] != i + 1 and  # mismatch
+                nums[i] > 0 and  # negatives
+                nums[i] <= len(nums) and  # in the range
+                nums[i] != nums[nums[i] - 1]  # duplicates
+            ):
+                temp = nums[i]
+                nums[i] = nums[nums[i] - 1]
+                nums[temp - 1] = temp
 
-* 3Sum
+        result = len(nums) + 1
+        for i in range(len(nums)):
+            if nums[i] != i + 1:
+                result = i + 1
+                break
 
-- [Problem](https://leetcode.com/problems/3sum/)
-- [Solution](two-pointers/3Sum/solution.py)
-
-* Container With Most Water
-
-- [Problem](https://leetcode.com/problems/container-with-most-water/submissions/)
-- [Solution](two-pointers/container-with-most-water/solution.py)
-
-* Trapping Rain Water
-
+        return result
 - [Problem](https://leetcode.com/problems/trapping-rain-water/)
 - [Solution](two-pointers/trapping-rain-water/solution.py)
 
