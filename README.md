@@ -602,6 +602,11 @@
 - [Problem](https://leetcode.com/problems/first-missing-positive/)
 - [Solution](array/first-missing-positive/solution.py)
 
+* Number of Zero-Filled Subarrays
+
+* [Problem](https://leetcode.com/problems/number-of-zero-filled-subarrays/)
+* [Solution](array/number-of-zero-filled-subarrays/solution.py)
+
 
 ## Two Pointers
 
@@ -613,30 +618,10 @@
 * Two Sum 
 
 - [Problem](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
-- [Solution](two-pointers/two-sum-2/solclass Solution:
-    def firstMissingPositive(self, nums: List[int]) -> int:
-        # Cycle sort
-        # Swap elements until nums[i] == i + 1
-        for i in range(len(nums)):
-            # We only care about positive numbers and those that are
-            # less than the size of the array
-            while (
-                nums[i] != i + 1 and  # mismatch
-                nums[i] > 0 and  # negatives
-                nums[i] <= len(nums) and  # in the range
-                nums[i] != nums[nums[i] - 1]  # duplicates
-            ):
-                temp = nums[i]
-                nums[i] = nums[nums[i] - 1]
-                nums[temp - 1] = temp
+- [Solution](two-pointers/two-sum-2/solution.py)
 
-        result = len(nums) + 1
-        for i in range(len(nums)):
-            if nums[i] != i + 1:
-                result = i + 1
-                break
+* Trap Rain Water
 
-        return result
 - [Problem](https://leetcode.com/problems/trapping-rain-water/)
 - [Solution](two-pointers/trapping-rain-water/solution.py)
 
