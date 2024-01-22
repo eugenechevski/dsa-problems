@@ -604,8 +604,13 @@
 
 * Number of Zero-Filled Subarrays
 
-* [Problem](https://leetcode.com/problems/number-of-zero-filled-subarrays/)
-* [Solution](array/number-of-zero-filled-subarrays/solution.py)
+- [Problem](https://leetcode.com/problems/number-of-zero-filled-subarrays/)
+- [Solution](array/number-of-zero-filled-subarrays/solution.py)
+
+* Optimal Partition of String
+
+- [Problem](https://leetcode.com/problems/optimal-partition-of-string/)
+- [Solution](array/optimal-partition-of-string/solution.py)
 
 
 ## Two Pointers
