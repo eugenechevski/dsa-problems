@@ -617,6 +617,11 @@
 - [Problem](https://leetcode.com/problems/design-underground-system/)
 - [Solution](array/design-underground-system/solution.py)
 
+* Minimum Penalty for a Shop
+
+- [Problem](https://leetcode.com/problems/minimum-penalty-for-a-shop/)
+- [Solution](array/minimum-penalty-for-a-shop/solution.py)
+
 
 ## Two Pointers
 
