@@ -612,6 +612,11 @@
 - [Problem](https://leetcode.com/problems/optimal-partition-of-string/)
 - [Solution](array/optimal-partition-of-string/solution.py)
 
+* Design Underground System
+
+- [Problem](https://leetcode.com/problems/design-underground-system/)
+- [Solution](array/design-underground-system/solution.py)
+
 
 ## Two Pointers
 
