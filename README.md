@@ -622,6 +622,11 @@
 - [Problem](https://leetcode.com/problems/minimum-penalty-for-a-shop/)
 - [Solution](array/minimum-penalty-for-a-shop/solution.py)
 
+* Text Justification
+
+- [Problem](https://leetcode.com/problems/text-justification/)
+- [Solution](array/text-justification/solution.py)
+
 
 ## Two Pointers
 
