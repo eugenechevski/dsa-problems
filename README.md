@@ -627,6 +627,11 @@
 - [Problem](https://leetcode.com/problems/text-justification/)
 - [Solution](array/text-justification/solution.py)
 
+* Naming a Company
+
+- [Problem](https://leetcode.com/problems/naming-a-company/)
+- [Solution](array/naming-a-company/solution.py)
+
 
 ## Two Pointers
 
