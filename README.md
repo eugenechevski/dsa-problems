@@ -650,6 +650,12 @@
 - [Problem](https://leetcode.com/problems/trapping-rain-water/)
 - [Solution](two-pointers/trapping-rain-water/solution.py)
 
+* Valid Palindrome 2
+
+- [Problem](https://leetcode.com/problems/valid-palindrome-ii/)
+- [Solution](two-pointers/valid-palindrome-ii/solution.py)
+
+
 
 ## Sliding Window
 
