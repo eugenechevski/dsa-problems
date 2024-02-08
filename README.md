@@ -665,6 +665,11 @@
 - [Problem](https://leetcode.com/problems/merge-strings-alternately/)
 - [Solution](two-pointers/merge-strings-alternately/solution.py)
 
+* Merge Sorted Array
+
+- [Problem](https://leetcode.com/problems/merge-sorted-array/)
+- [Solution](two-pointers/merge-sorted-array/solution.py)
+
 
 ## Sliding Window
 
