@@ -655,6 +655,10 @@
 - [Problem](https://leetcode.com/problems/valid-palindrome-ii/)
 - [Solution](two-pointers/valid-palindrome-ii/solution.py)
 
+* Minimum Difference Between Highest and Lowest of K Scores
+
+- [Problem](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/)
+- [Solution](two-pointers/minimum-difference-between-highest-and-lowest-of-k-scores/solution.py)
 
 
 ## Sliding Window
