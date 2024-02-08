@@ -660,6 +660,11 @@
 - [Problem](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/)
 - [Solution](two-pointers/minimum-difference-between-highest-and-lowest-of-k-scores/solution.py)
 
+* Merge Strings Alternately
+
+- [Problem](https://leetcode.com/problems/merge-strings-alternately/)
+- [Solution](two-pointers/merge-strings-alternately/solution.py)
+
 
 ## Sliding Window
 
