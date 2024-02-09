@@ -670,6 +670,11 @@
 - [Problem](https://leetcode.com/problems/merge-sorted-array/)
 - [Solution](two-pointers/merge-sorted-array/solution.py)
 
+* Move Zeroes
+
+- [Problem](https://leetcode.com/problems/move-zeroes/)
+- [Solution](two-pointers/move-zeroes/solution.py)
+
 
 ## Sliding Window
 
