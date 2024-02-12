@@ -675,6 +675,11 @@
 - [Problem](https://leetcode.com/problems/move-zeroes/)
 - [Solution](two-pointers/move-zeroes/solution.py)
 
+* Remove Duplicates from Sorted Array
+
+- [Problem](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+- [Solution](two-pointers/remove-duplicates-from-sorted-array/solution.py)
+
 
 ## Sliding Window
 
