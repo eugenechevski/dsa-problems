@@ -34,19 +34,18 @@ Constraints:
     * The tests are generated such that there is exactly one solution.
 """
 
-class Solution(object):
-    def twoSum(self, numbers, target):
-        left = 0
-        right = len(numbers) - 1
 
-        while left < len(numbers):
-            while numbers[right] > target - numbers[left]:
-                right -= 1
+class Solution:
+    def twoSum(self, numbers: List[int], target: int) -> List[int]:
+        nums = numbers
+        l, r = 0, len(nums) - 1
 
-            if numbers[left] + numbers[right] == target:
-                break
-            else:
-                left += 1
+        current_sum = nums[l] + nums[r]
+        while current_sum != target:
+            if current_sum > target:
+                r -= 1
+            elif current_sum < target:
+                l += 1
+            current_sum = nums[l] + nums[r]
 
-        return [left + 1, right + 1]
-
+        return [l + 1, r + 1]
