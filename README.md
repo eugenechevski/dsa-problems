@@ -680,6 +680,11 @@
 - [Problem](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 - [Solution](two-pointers/remove-duplicates-from-sorted-array/solution.py)
 
+* Remove Duplicates from Sorted Array 2
+
+- [Problem](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)
+- [Solution](two-pointers/remove-duplicates-from-sorted-array-ii/solution.py)
+
 
 ## Sliding Window
 
