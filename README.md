@@ -645,6 +645,16 @@
 - [Problem](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 - [Solution](two-pointers/two-sum-2/solution.py)
 
+- 3Sum
+
+- [Problem](https://leetcode.com/problems/3sum/)
+- [Solution](two-pointers/3Sum/solution.py)
+
+* 4Sum
+
+- [Problem](https://leetcode.com/problems/4sum/)
+- [Solution](two-pointers/4sum/solution.py)
+
 * Trap Rain Water
 
 - [Problem](https://leetcode.com/problems/trapping-rain-water/)
