@@ -695,6 +695,11 @@
 - [Problem](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)
 - [Solution](two-pointers/remove-duplicates-from-sorted-array-ii/solution.py)
 
+* Number of Subsequences That Satisfy the Given Sum Condition
+
+- [Problem](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/)
+- [Solution](two-pointers/number-of-subsequences-that-satisfy-the-given-sum-condition/solution.py)
+
 
 ## Sliding Window
 
