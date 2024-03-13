@@ -700,6 +700,11 @@
 - [Problem](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/)
 - [Solution](two-pointers/number-of-subsequences-that-satisfy-the-given-sum-condition/solution.py)
 
+* Rotate Array
+
+- [Problem](https://leetcode.com/problems/rotate-array/)
+- [Solution](two-pointers/rotate-array/solution.py)
+
 
 ## Sliding Window
 
