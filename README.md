@@ -705,6 +705,11 @@
 - [Problem](https://leetcode.com/problems/rotate-array/)
 - [Solution](two-pointers/rotate-array/solution.py)
 
+* Array With Elements Not Equal to Average of Neighbors
+
+- [Problem](https://leetcode.com/problems/array-with-elements-not-equal-to-average-of-neighbors/)
+- [Solution](two-pointers/array-with-elements-not-equal-to-average-of-neighbors/solution.py)
+
 
 ## Sliding Window
 
