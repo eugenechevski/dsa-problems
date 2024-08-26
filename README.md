@@ -710,6 +710,11 @@
 - [Problem](https://leetcode.com/problems/array-with-elements-not-equal-to-average-of-neighbors/)
 - [Solution](two-pointers/array-with-elements-not-equal-to-average-of-neighbors/solution.py)
 
+* Assign Cookies
+
+- [Problem](https://leetcode.com/problems/assign-cookies/)
+- [Solution](two-pointers/assign-cookies/solution.java)
+
 
 ## Sliding Window
 
