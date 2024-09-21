@@ -771,6 +771,11 @@
 - [Problem](https://leetcode.com/problems/largest-rectangle-in-histogram/)
 - [Solution](stack/largest-rectangle-in-histogram/solution.py)
 
+* Baseball Game
+
+- [Problem](https://leetcode.com/problems/baseball-game/)
+- [Solution](stack/baseball-game/solution.java)
+
 
 ## Binary Search
 
