@@ -244,6 +244,11 @@
 - [Problem](https://leetcode.com/problems/word-search-ii/description/)
 - [Solution](tries/word-search-2/solution.py)
 
+* Closest Nodes Queries in a Binary Search Tree
+
+- [Problem](https://leetcode.com/problems/closest-nodes-queries-in-a-binary-search-tree)
+- [Solution](trees/closest-nodes-queries-in-a-binary-search-tree/solution.java)
+
 
 ## Tries
 
