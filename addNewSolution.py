@@ -63,3 +63,37 @@ with open(file_path, "a") as f:
     f.write(comment_block)
 
 print(f"File created: {file_path}")
+
+# Step 6: Update the README.md file
+readme_file = os.path.join(os.getcwd(), "README.md")
+if os.path.exists(readme_file):
+    with open(readme_file, "r") as f:
+        lines = f.readlines()
+
+    # Find the section header
+    section_header = f"## {subfolder_name.replace('-', ' ').title()}\n"
+    if section_header not in lines:
+        # If the section does not exist, add it at the end of the file
+        lines.append(f"\n{section_header}\n")
+
+    # Find the line index to insert the new problem entry
+    header_index = lines.index(section_header)
+    
+    # Insert new line
+    lines.insert(header_index + 1, "\n");
+    
+    # Create the new problem entry
+    problem_entry = f"* {problem_name.replace('-', ' ').title()}\n"
+    problem_entry += f"  - [Problem](https://leetcode.com/problems/{problem_name}/)\n"
+    problem_entry += f"  - [Solution]({subfolder_name}/{problem_name}/solution.{file_extension})\n"
+    
+    # Insert the new entry after the header
+    lines.insert(header_index + 2, problem_entry)
+
+    # Write the updated content back to the README.md
+    with open(readme_file, "w") as f:
+        f.writelines(lines)
+
+    print(f"README.md updated with the new problem entry under {subfolder_name.title()} section.")
+else:
+    print("README.md not found. No changes were made.")
