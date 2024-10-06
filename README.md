@@ -121,6 +121,10 @@
 
 ## Linked List
 
+* Lfu Cache
+  - [Problem](https://leetcode.com/problems/lfu-cache/)
+  - [Solution](linked-list/lfu-cache/solution.java)
+
 * Reorder List
 
 - [Problem](https://leetcode.com/problems/reorder-list/)
